@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Register</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/315b871b24.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./signup.css" />
+  </head>
+  <body>
+    <div id="main-container">
+      <div id="heading">
+        <a class="fas fa-times" href="./login.html"></a>
+        <h5 id="title">REGISTER</h5>
+      </div>
+      <div id="reward">
+        <p>
+          Register to Earn <span id="reward-text"> 2000 Reward Points!</span>
+        </p>
+      </div>
+      <div class="input-div">
+        <input type="Name" id="user-name" maxlength="36" required="" />
+        <label>Name</label>
+        <p id="name-message"></p>
+      </div>
+      <div class="input-div">
+        <input
+          type="tel"
+          id="user-number"
+          minlength="1"
+          maxlength="10"
+          required
+        />
+        <label>Phone Number</label>
+        <p id="number-message"></p>
+      </div>
+      <div class="input-div">
+        <input type="email" id="user-email" required />
+        <label>Email</label>
+      </div>
+      <div class="input-div">
+        <input
+          id="user-password"
+          type="password"
+          minlength="1"
+          maxlength="10"
+          required
+        />
+        <label>Create Password</label>
+        <p id="password-message"></p>
+      </div>
+      <button id="registerBtn">REGISTER</button>
+    </div>
+  </body>
+</html>
+<script src="./signup.js"></script>

@@ -1,0 +1,140 @@
+* {
+  background-color: #f3f3f3;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.5px;
+}
+
+#main-container {
+  border: 1px solid black;
+  width: 300px;
+  margin: 70px auto;
+  padding: 30px;
+  border: 1px solid rgb(213, 208, 208);
+  border-radius: 14px;
+  background-color: white;
+}
+
+#heading {
+  display: flex;
+  font-weight: 100;
+  margin-bottom: 30px;
+  background-color: white;
+}
+
+#heading > i {
+  width: 10%;
+  font-size: 24px;
+  background-color: white;
+  color: rgb(93, 86, 86);
+}
+
+#heading > h5 {
+  width: 90%;
+  padding: 0;
+  margin-top: 2px;
+  margin-left: 90px;
+  font-size: 16px;
+  background-color: white;
+}
+
+#reward {
+  background-color: #fff;
+  text-align: center;
+  margin: 20px auto 50px auto;
+}
+
+#reward > p {
+  background-color: #fff;
+  font-size: 14px;
+}
+
+#reward > p > span {
+  background-color: #fff;
+  color: #fc2779;
+}
+
+.input-div {
+  background-color: #fff;
+  margin: 14px auto;
+  position: relative;
+}
+
+.input-div > label {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  color: grey;
+  background-color: #fff;
+  pointer-events: none;
+  transition: 0.5s;
+}
+
+.input-div > p {
+  margin: 3px;
+  padding: 0;
+  text-align: right;
+  font-size: 10px;
+  background-color: #fff;
+  letter-spacing: 0.5px;
+  color: red;
+  font-weight: 600;
+}
+
+input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #fc2779;
+  padding: 10px 0;
+  font-size: 16px;
+  background-color: #fff;
+  outline: none;
+  /* transition: transform .5s; */
+}
+
+input:valid + label,
+input:focus + label {
+  top: -10px;
+  left: 0;
+  color: #fc2779;
+  font-size: 13px;
+}
+
+#registerBtn {
+  width: 100%;
+  margin: 30px auto;
+  padding: 14px;
+  border: none;
+  background-color: #fc2779;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+
+#registerBtn:hover {
+  transform: scale(1.05);
+}
+.fas {
+  text-decoration: none;
+  background-color: #fc2779;
+  color: #f3f3f3;
+  font-size: 22px;
+  border-radius: 20px;
+  height: 25px;
+  width: 40px;
+  text-align: center;
+  padding: 1px;
+}
+#processdiv {
+  border: 1px solid black;
+  width: 300px;
+  margin: 70px auto;
+  padding: 30px;
+  border: 1px solid rgb(213, 208, 208);
+  border-radius: 14px;
+  background-color: white;
+  cursor: progress;
+}

@@ -1,0 +1,805 @@
+{
+  "posts": [
+    {
+      "url": "https://images-static.nykaa.com/uploads/64d93257-a20b-4eab-a461-cc4d829fdb2b.jpg?tr=w-600,cm-pad_resize",
+      "title": "Last Chance To Grab These Offers!",
+      "para": "Up to 40% Off"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/9a48b248-c665-4405-8491-d76a1f149d62.jpg?tr=w-600,cm-pad_resize",
+      "title": "Up to 35% Off",
+      "para": "Face Makeup that Fits Me As I Am!"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/48dd9cee-eecc-47a6-89c3-85c58c712861.png?tr=w-600,cm-pad_resize",
+      "title": "Buy 2 Get 1 Free Gift",
+      "para": "upto 10% Off"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/81a37e3d-e0f5-47f9-ae89-ca88a8751ef6.jpg?tr=w-600,cm-pad_resize",
+      "title": "Buy 2 Get 1 Free",
+      "para": "Flat 10% Off On Singles"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/2f17d8c6-3b59-4d41-a13e-aaa13e444c03.jpg?tr=w-600,cm-pad_resize",
+      "title": "Buy 30% Off + Free Face Wash",
+      "para": "Worth Rs. 139 On 699"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/4964842b-48b6-44b9-ae12-4a852a8e4a52.jpg?tr=w-600,cm-pad_resize",
+      "title": "Best Seller Minis Satring At Rs 425",
+      "para": "Worth Rs. 139 On 699"
+    }
+  ],
+  "posts2": [
+    {
+      "url": "https://images-static.nykaa.com/uploads/ee34ad92-7346-4ddf-8cce-d42ea56a12c3.jpg?tr=w-600,cm-pad_resize",
+      "title": "Last Chance To Grab These Offers!",
+      "para": "Up to 40% Off"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/2d49b672-a730-4fd0-ba5b-772c0c3713fc.jpg?tr=w-600,cm-pad_resize",
+      "title": "Last Chance To Grab These Offers!",
+      "para": "Up to 40% Off"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/7257d2a6-8d3f-4abb-9fb9-2f0f410d7bc6.jpg?tr=w-600,cm-pad_resize",
+      "title": "Last Chance To Grab These Offers!",
+      "para": "Up to 40% Off"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/1c964351-806b-459c-a7f9-2e6bc55e1594.jpg?tr=w-600,cm-pad_resize",
+      "title": "Last Chance To Grab These Offers!",
+      "para": "Up to 40% Off"
+    }
+  ],
+  "products": [
+    {
+      "url": "https://images-static.nykaa.com/uploads/0769ac4a-3dda-45bb-9995-bae2c2c41925.png?tr=w-200,cm-pad_resize",
+      "orignal": "Upto 40% Off",
+      "price": "On Entire Range",
+      "dis": "Extra-10% Off"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/1208f0cc-cb69-4c28-8aa7-fe8da2dc1ad4.jpg?tr=w-200,cm-pad_resize",
+      "orignal": "Upto 40% Off",
+      "price": "On Entire Range",
+      "dis": "Extra-10% Off"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/6b958240-0ddf-43dc-a58a-26dcf33fdce9.jpg?tr=w-200,cm-pad_resize",
+      "orignal": "Buy 1 Get 1...",
+      "price": "Upto 40% Off...",
+      "dis": "Extra-10% Off"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/7b89b8d2-4e4a-4fd9-8a7f-c46422eb0190.jpg?tr=w-200,cm-pad_resize",
+      "orignal": "Upto 20% Off",
+      "price": "On Entire Range",
+      "dis": "Extra-10% Off"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/ee16475a-cfb5-4edd-b6ed-418980bfdd87.jpg?tr=w-200,cm-pad_resize",
+      "orignal": "Upto 50% Off",
+      "price": "On Selected Range",
+      "dis": "Extra-10% Off"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/2aa658b5-e647-4013-99df-1d21a6ebf010.jpg?tr=w-200,cm-pad_resize",
+      "orignal": "Upto 30% Off",
+      "price": "On Selected Range",
+      "dis": ""
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/9543baff-6b4e-4d1d-ab9c-e7bded753c9c.jpg?tr=w-200,cm-pad_resize",
+      "orignal": "Upto 30% Off",
+      "price": "On Entire Range",
+      "dis": "Extra-10% Off"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/537d01bd-9539-4842-9af9-05c66ed967ea.jpg?tr=w-200,cm-pad_resize",
+      "orignal": "Upto 60% Off",
+      "price": "Face Creams...",
+      "dis": "Extra-10% Off"
+    }
+  ],
+  "Influencer": [
+    {
+      "url": "https://images-static.nykaa.com/uploads/e6a9f44b-a549-4c78-85e1-7428916706f4.jpg?tr=w-240,cm-pad_resize",
+      "name": "The Cister Co's ",
+      "surname": "Luxe Favourites"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/b4186528-2d22-4619-b7c0-ac2fd5ef6317.jpg?tr=w-240,cm-pad_resize",
+      "name": "Gia Kashyap's",
+      "surname": "Winter Skin Essentials"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/d280aeca-f662-4b26-9c0c-ca649bb658b2.jpg?tr=w-240,cm-pad_resize",
+      "name": "Muskan Chanchalani ",
+      "surname": "Wedding Get Ready"
+    },
+    {
+      "url": "https://images-static.nykaa.com/uploads/9c88131e-b0c2-4d62-8295-8dad1801b17a.jpg?tr=w-240,cm-pad_resize",
+      "name": "Shantu's",
+      "surname": "Party Season"
+    }
+  ],
+  "nykaaRegUser": [
+    {
+      "name": "Sou",
+      "phoneNumber": "2347239472",
+      "email": "sou@gmail.com",
+      "password": "sS2@",
+      "id": 1
+    },
+    {
+      "name": "Papai",
+      "phoneNumber": "8376654286",
+      "email": "pap@gmail.com",
+      "password": "qQ4$",
+      "id": 2
+    },
+    {
+      "name": "Abc",
+      "phoneNumber": "9734523759",
+      "email": "abc@gmail.comm",
+      "password": "aA1!",
+      "id": 3
+    },
+    {
+      "name": "PQR",
+      "phoneNumber": "9275937296",
+      "email": "Pqr@gmail.com",
+      "password": "pP8*",
+      "id": 4
+    },
+    {
+      "name": "Soubhik",
+      "phoneNumber": "9734923749",
+      "email": "Svk@gmail.com",
+      "password": "gG5%",
+      "id": 5
+    },
+    {
+      "name": "Pawan Singh",
+      "phoneNumber": "9695223973",
+      "email": "pawan0126@gmail.com",
+      "password": "Raghu@123",
+      "id": 6
+    }
+  ],
+
+  "data": [
+    {
+      "id": "1",
+      "qty": 1,
+      "name": "Nykaa All Day Matte Waterproof, Transfer Proof, Mask Proof, 12H Liquid Lipstick - Teacher Tribe (2.1ml)",
+      "price": "349",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/9/8/983b1f9nykac00000076_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/9/8/983b1f9nykac00000076_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/9/8/983b1f9nykac00000076_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/9/8/983b1f9nykac00000076_6.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "2",
+      "qty": 1,
+      "name": "Nykaa Eyes On Me! 10-in-1 Eyeshadow Palette - Beachside Peach(12gm)",
+      "price": "599",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245710576_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245710576_2_.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/j/a/janhvi_00_eyeshadow-palette_1.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245710576_4_.jpg",
+      "description": "Expiry Date: 15 June 2024--Country of Origin: China--Name of Mfg / Importer / Brand: FSN E-commerce Ventures Pvt Ltd,--Address of Mfg / Importer / Brand: 104 Vasan Udyog Bhavan Sun Mill Compound Senapati Bapat Marg, Lower Parel,-- Mumbai City Maharashtra - 400013"
+    },
+    {
+      "id": "3",
+      "qty": 1,
+      "name": "Nykaa Paintstix! Waterproof Matte Lipstick - Cheerleader Daze 16 (3.5g)",
+      "price": "425",
+      "rating": "★★★✩✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/f/b/fb292a38904245703370_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/b/fb292a38904245703370_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/b/fb292a38904245703370_3.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/b/fb292a38904245703370_4.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "4",
+      "qty": 1,
+      "name": "Nykaa So Creme! Creamy Matte Lipstick - Wakeup Makeup (4.2gm)",
+      "price": "299",
+      "rating": "★★★★★",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/2/7/279c3ef8904245710927_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/2/7/279c3ef8904245710927_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/2/7/279c3ef8904245710927_4.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/2/7/279c3ef8904245710927_5.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "5",
+      "qty": 1,
+      "name": "Nykaa Matte to Last! Transfer Proof Liquid Lipstick -Kaveri - 20 (5ml)",
+      "price": "449",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245706227_1_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/k/a/kaveri.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/j/a/janhvi_00_matte-to-last_21.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/n/y/nyk_mtlll_re_04-reason-to-love_23.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "6",
+      "qty": 1,
+      "name": "Nykaa Sealed with a Kiss! Lipstick Palette - Limited Edition (13.5gm)",
+      "price": "799",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245714888_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245714888_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245714888_3.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245714888_5.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "7",
+      "qty": 1,
+      "name": "Nykaa Get Set Matte! Demi Matte Lip Cream Liquid Lipstick - GOALS (5ml)",
+      "price": "349",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245707804_1_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/b/6/b6fa2fa8904245707804_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/b/6/b6fa2fa8904245707804_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/b/6/b6fa2fa8904245707804_4.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "8",
+      "qty": 1,
+      "name": "Nykaa Gloss it Up! High Shine Lip Gloss - 01 Honey Boo (5ml)",
+      "price": "459",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245705466_1_1_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/4/-/4-hand-swatch.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/h/o/honey-boo_01_1.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/3/-/3-reason-to-love.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "9",
+      "qty": 1,
+      "name": "Nykaa All Day Matte Waterproof, Transfer Proof, Mask Proof, 12H Liquid Lipstick - Soul Sister (2.1ml)",
+      "price": "849",
+      "rating": "★★★★★",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/c/c/ccda1f9nykac00000072_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/c/c/ccda1f9nykac00000072_5.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/c/c/ccda1f9nykac00000072_6.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/c/c/ccda1f9nykac00000072_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "10",
+      "qty": 1,
+      "name": "Nykaa Matte to Last! Mini Metallic Liquid Lipstick and Eyeshadow - Firework (1.2ml)",
+      "price": "249",
+      "rating": "★★★✩✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245711474_1_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/c/a/can_t-be-tamed_3_1.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/c/a/can_t-be-tamed_6.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/4/-/4-reason-to-love_3_74.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "11",
+      "qty": 1,
+      "name": "Nykaa So Matte! Mini Lipstick - 30 M Regal Ruby (1.5g)",
+      "price": "199",
+      "rating": "★★★✩✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/7/8/78c94768904245707149_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/7/8/78c94768904245707149_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/7/8/78c94768904245707149_3.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/7/8/78c94768904245707149_4.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "12",
+      "qty": 1,
+      "name": "Nykaa Matte to Last! Transfer Proof Liquid Lipstick - Bombae -01",
+      "price": "599",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245704209_1_2.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/b/o/bombae_3.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/j/a/janhvi_00_matte-to-last.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/4/-/4-reason-to-love_1_4.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "13",
+      "qty": 1,
+      "name": "Nykaa Cosmetics All Day Matte Compact- Vanilla, So Creme Lipstick- Pep Talk & Black Magic Kajal Combo",
+      "price": "489",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/1/_/1_648.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/2/_/2_551.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/3/_/3_541.jpg",
+      "img4": "https://www.nykaa.com/media/wysiwyg/8904245714246_reasonstolove.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "14",
+      "qty": 1,
+      "name": "Nykaa Sealed with a Kiss! Lipstick Palette - Flower Child 02",
+      "price": "349",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/7/a/7ac4d4d8904245706135_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/7/a/7ac4d4d8904245706135_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/7/a/7ac4d4d8904245706135_3.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/7/a/7ac4d4d8904245706135_4.jpg",
+      "description": "Nykaa's Sealed With a Kiss Lip Palette is all you need to pucker and pout. This multi-tasking palette features expertly coordinated color combinations of intensely pigmented matte lip cream that gives you the coverage of a matte lipstick and blendability of a blusher. Each shade stands alone or can be blended together for a customized shade. When you can't decide on just one lip shade to buy, don't. Just pick up one of these lip palettes instead."
+    },
+    {
+      "id": "15",
+      "qty": 1,
+      "name": "Nykaa All Day Matte Waterproof, Transfer Proof, Mask Proof, 12H Liquid Lipstick - Soul Sister (2.1ml)",
+      "price": "349",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "16",
+      "qty": 1,
+      "name": "Nykaa Nail Enamel",
+      "price": "95",
+      "rating": "★★★★★",
+      "product_type": "nailpolish",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/c/4c892108904245700447_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "17",
+      "qty": 1,
+      "name": "Masaba by Nykaa",
+      "price": "100",
+      "rating": "★★★★✩",
+      "product_type": "nailpolish",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/0/201acee8904245709020_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "18",
+      "qty": 1,
+      "name": "Salon Shine Gel Nail Lacquer",
+      "price": "228",
+      "rating": "★★★★✩",
+      "product_type": "nailpolish",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/e/6eea9f88904245702939_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "19",
+      "qty": 1,
+      "name": "Cookie Crumble Nail Enamel",
+      "price": "174",
+      "rating": "★★★★★",
+      "product_type": "nailpolish",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/a/2a06ea98904245706791_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "20",
+      "qty": 1,
+      "name": "Dual Tone Nail Enamel Remover",
+      "price": "99",
+      "rating": "★★★★★",
+      "product_type": "nailpolish",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/5/95365568904245700812_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "21",
+      "qty": 1,
+      "name": "Unicorn Potion Nail Enamel",
+      "price": "212",
+      "rating": "★★★★✩",
+      "product_type": "nailpolish",
+      "brand": "nykaa cosmetics",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/6/4651bf68904245704704_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "22",
+      "qty": 1,
+      "name": "Lakme Color Crush Nail Art",
+      "price": "160",
+      "rating": "★★★★★",
+      "product_type": "nailpolish",
+      "brand": "Lakme",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/0/90971908901030715693_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "23",
+      "qty": 1,
+      "name": "Lakme 9 To 5 Primer + Gloss Nail Color",
+      "price": "190",
+      "rating": "★★★★★",
+      "product_type": "nailpolish",
+      "brand": "Lakme",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/7/27099_h-8901030735769.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "24",
+      "qty": 1,
+      "name": "Lakme Absolute Gel",
+      "price": "275",
+      "rating": "★★★★★",
+      "product_type": "nailpolish",
+      "brand": "Lakme",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/3/23502_h-8901030746840.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "25",
+      "qty": 1,
+      "name": "Lakme True Wear Nail Color",
+      "price": "130",
+      "rating": "★★★★✩",
+      "product_type": "nailpolish",
+      "brand": "Lakme",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/l/a/laktruewearnail_31_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "26",
+      "qty": 1,
+      "name": "Lakme Absolute Gel Stylist Nail Color",
+      "price": "260",
+      "rating": "★★★★★",
+      "product_type": "nailpolish",
+      "brand": "Lakme",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/b/bbe9d4129213_H_8901030882173.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "27",
+      "qty": 1,
+      "name": "Lakme Nail Paint + Top Coat",
+      "price": "535",
+      "rating": "★★★★★",
+      "product_type": "nailpolish",
+      "brand": "Lakme",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/n/y/nylakmecom447_24611_23502.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "28",
+      "qty": 1,
+      "name": "Lakme Forever Matte Liquid Lip Color",
+      "price": "297",
+      "rating": "★★★★★",
+      "product_type": "lipstick",
+      "brand": "Lakme",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/4/24544_h-8901030758850m.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "29",
+      "qty": 1,
+      "name": "Lakme Lip Love Chapstick",
+      "price": "100",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "Lakme",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/1/21a84538901030713958_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "30",
+      "qty": 1,
+      "name": "Lakme Cushion Matte Lipstick",
+      "price": "254",
+      "rating": "★★★★★",
+      "product_type": "lipstick",
+      "brand": "Lakme",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/d/bd180d124704_s1-8901030776533.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "31",
+      "qty": 1,
+      "name": "Lakme Absolute Matte Melt",
+      "price": "333",
+      "rating": "★★★★★",
+      "product_type": "lipstick",
+      "brand": "Lakme",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/e/6e5ba2a29025_h-8901030832697.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "32",
+      "qty": 1,
+      "name": "Lakme Ultimate Lip color",
+      "price": "743",
+      "rating": "★★★★★",
+      "product_type": "lipstick",
+      "brand": "Lakme",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/4/24344_h-8901030724251m_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "33",
+      "qty": 1,
+      "name": "Lakme Absolute Precision Lip Paint",
+      "price": "630",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "Lakme",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/a/ea5c190LAKME00000188_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "34",
+      "qty": 1,
+      "name": "MyGlamm Hi-Shine Lipstick",
+      "price": "665",
+      "rating": "★★★★★",
+      "product_type": "lipstick",
+      "brand": "MyGlamm",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/7/37d3fc18906095881734_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "35",
+      "qty": 1,
+      "name": "MyGlamm Soft Matte Lipstick",
+      "price": "630",
+      "rating": "★★★★★",
+      "product_type": "lipstick",
+      "brand": "MyGlamm",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/0/300ffc18906095882847_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "36",
+      "qty": 1,
+      "name": "MyGlamm Popxo Lip Kit",
+      "price": "244",
+      "rating": "★★★★★",
+      "product_type": "lipstick",
+      "brand": "MyGlamm",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/c/9c3bc77MYGLA00000269_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "37",
+      "qty": 1,
+      "name": "MyGlamm LIT Satin Matte",
+      "price": "347",
+      "rating": "★★★★✩",
+      "product_type": "lipstick",
+      "brand": "MyGlamm",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/a/8ae664e8906095882106_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "38",
+      "qty": 1,
+      "name": "MyGlamm Ultimatte Long Stay",
+      "price": "489",
+      "rating": "★★★★★",
+      "product_type": "lipstick",
+      "brand": "MyGlamm",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/1/c15164emygla00000043_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "39",
+      "qty": 1,
+      "name": "MyGlamm POSE HD Matte Lipstick",
+      "price": "419",
+      "rating": "★★★★★",
+      "product_type": "lipstick",
+      "brand": "MyGlamm",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/7/577664e8906095883196_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Fall in love with high-impact liquid lip colours that promise 12-hour long-wearing comfort. The Nykaa All Day Matte Liquid Lipstick range is here to give your lips a weightless matte finish with its moisturising formula. Take your pick from 10 shades that are an ode to the everyday women, who are unstoppable."
+    },
+    {
+      "id": "40",
+      "qty": 1,
+      "name": "MyGlamm Nail Lacquer",
+      "price": "207",
+      "rating": "★★★★✩",
+      "product_type": "nailpolish",
+      "brand": "MyGlamm",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/d/5d3b460MYGLA00000098_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "41",
+      "qty": 1,
+      "name": "MyGlamm LIR Nail Enamel",
+      "price": "133",
+      "rating": "★★★★★",
+      "product_type": "nailpolish",
+      "brand": "MyGlamm",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/6/d6ea8a88906095881154_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "42",
+      "qty": 1,
+      "name": "MyGlamm Popxo Makeup Collection",
+      "price": "209",
+      "rating": "★★★★✩",
+      "product_type": "nailpolish",
+      "brand": "MyGlamm",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/c/dce5caf8904413301049_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "43",
+      "qty": 1,
+      "name": "MyGlam 2 in 1 Nail Paint",
+      "price": "307",
+      "rating": "★★★★★",
+      "product_type": "nailpolish",
+      "brand": "MyGlamm",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/4/b4f51b18906095887859_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "44",
+      "qty": 1,
+      "name": "MyGlamm Lit Matte Nail Enamel",
+      "price": "154",
+      "rating": "★★★★✩",
+      "product_type": "nailpolish",
+      "brand": "MyGlamm",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/b/db1364e8906095884407_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    },
+    {
+      "id": "45",
+      "qty": 1,
+      "name": "MyGlamm Wanderlust Matt Chrome Nail Paint",
+      "price": "274",
+      "rating": "★★★★★",
+      "product_type": "nailpolish",
+      "brand": "MyGlamm",
+      "img1": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/0/a00e64e8906095885251_1.jpg",
+      "img2": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_2.jpg",
+      "img3": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_5.jpg",
+      "img4": "https://images-static.nykaa.com/media/catalog/product/f/5/f5711f9nykac00000074_7.jpg",
+      "description": "Glam up your nails with a Nail Collection that has something for everyone, and every occasion. Keep these gorgeous shades on standby for the times when you want your nails to look on point. Our formulas deliver intense, long-lasting colour and dries in a jiffy. From soft pastels and matte nudes to super shiny salon gel polish, glittery golds and holographic hues, Nykaa's nail polish collection will give your tips a stunning makeover."
+    }
+  ]
+}

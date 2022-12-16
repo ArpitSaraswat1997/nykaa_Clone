@@ -1,0 +1,109 @@
+* {
+  background-color: #f3f3f3;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.5px;
+}
+#main-container {
+  border: 1px solid black;
+  width: 300px;
+  margin: 70px auto;
+  padding: 30px;
+  border: 1px solid rgb(213, 208, 208);
+  border-radius: 14px;
+  background-color: white;
+}
+/* #main-container > div {
+       
+    } */
+
+#heading {
+  display: flex;
+  font-weight: 100;
+  /* border: 1px solid teal; */
+  margin-bottom: 30px;
+  background-color: white;
+}
+
+#heading > i {
+  width: 10%;
+  font-size: 24px;
+  background-color: white;
+}
+#heading > h5 {
+  width: 90%;
+  margin: 0;
+  padding: 0;
+  margin-top: 2px;
+  font-size: 16px;
+  background-color: white;
+  /* text-align: center; */
+  margin-left: 65px;
+}
+.inputDiv {
+  background-color: #fff;
+}
+.inputBox {
+  width: 274px;
+  border: 1px solid #fc2779;
+  padding: 13px;
+  font-size: 14px;
+  text-align: center;
+  outline: 0;
+  margin-top: 27px;
+  margin-bottom: -20px;
+}
+
+#password-div {
+  margin-top: 30px;
+}
+
+.message {
+  margin: 0px;
+  padding: 16px;
+  text-align: right;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #fc2779;
+  background-color: #fff;
+}
+
+.btn {
+  width: 100%;
+  padding: 14px;
+  margin: 60px auto;
+  border: none;
+  background-color: #fc2779;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
+
+#password-div {
+  display: none;
+}
+#loginBtn {
+  display: none;
+}
+
+.fas {
+  text-decoration: none;
+  background-color: #fc2779;
+  color: #f3f3f3;
+  font-size: 22px;
+  border-radius: 20px;
+  height: 26px;
+  width: 38px;
+  text-align: center;
+  padding: 1px;
+}
+/* #proceedBtn{
+    display: none;
+  } */

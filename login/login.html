@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <title>SignIn</title>
+    <script
+      src="https://kit.fontawesome.com/315b871b24.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./login.css" />
+  </head>
+  <body>
+    <div id="main-container">
+      <div id="heading">
+        <a class="fas fa-times" href="../index.html"></a>
+        <h5 id="title">LOGIN / REGISTER</h5>
+      </div>
+      <div id="email-div" class="inputDiv">
+        <input
+          type="email"
+          class="inputBox"
+          id="user-email"
+          placeholder="Enter Email Id..."
+        />
+        <p class="message" id="email-message"></p>
+      </div>
+      <div class="inputDiv" id="password-div">
+        <input
+          type="password"
+          class="inputBox"
+          id="user-password"
+          placeholder="Enter Password"
+        />
+        <p class="message" id="password-messege"></p>
+      </div>
+      <div id="password-div"></div>
+      <button class="btn" id="loginBtn">LOGIN</button>
+      <button class="btn" id="proceedBtn">PROCEED</button>
+    </div>
+  </body>
+</html>
+<script src="./login.js"></script>

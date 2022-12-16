@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image"
+      href="data:image/jpeg;base64,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"
+      href=""
+    />
+    <title>Products</title>
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://play-lh.googleusercontent.com/GDz-jb59bT1pStsNQ_8w0jmu5gsKInnTPSWQT30_GVDFY6ODx4RdzbYhi0tB4pelxA"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"
+    />
+    <!-- Link Swiper's CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"
+    />
+    <link rel="stylesheet" href="./css/slider.css" />
+    <link
+      rel="stylesheet"
+      href="	https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="./css/product4.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
+    />
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://play-lh.googleusercontent.com/GDz-jb59bT1pStsNQ_8w0jmu5gsKInnTPSWQT30_GVDFY6ODx4RdzbYhi0tB4pelxA"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"
+    />
+    <link rel="stylesheet" href="../css/navbar.css" />
+    <link rel="stylesheet" href="../css/footer.css" />
+    <link rel="stylesheet" href="./nykaa/mainPage.css" />
+  </head>
+  <style>
+    a {
+      text-decoration: none;
+      color: #000000;
+    }
+
+    a:hover {
+      color: #222222;
+    }
+
+    /* Dropdown */
+
+    .dropdown {
+      display: inline-block;
+      position: relative;
+    }
+
+    .dd-button {
+      display: inline-block;
+      border: 1px solid gray;
+      border-radius: 4px;
+      padding: 10px 30px 10px 20px;
+      background-color: #ffffff;
+      cursor: pointer;
+      white-space: nowrap;
+      width: 238px;
+      border: none;
+      font-weight: 600;
+      font-size: 13px;
+    }
+
+    .dd-button:after {
+      content: "";
+      position: absolute;
+      top: 50%;
+      right: 15px;
+      transform: translateY(-50%);
+      width: 0;
+      height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-top: 5px solid black;
+    }
+
+    .dd-button:hover {
+      background-color: #eeeeee;
+    }
+
+    .dd-input {
+      display: none;
+    }
+
+    .dd-menu {
+      position: absolute;
+      top: 100%;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      padding: 0;
+      margin: 2px 0 0 0;
+      box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.1);
+      background-color: #ffffff;
+      list-style-type: none;
+      width: 238px;
+    }
+
+    .dd-input + .dd-menu {
+      display: none;
+    }
+
+    .dd-input:checked + .dd-menu {
+      display: block;
+    }
+
+    .dd-menu li {
+      padding: 10px 20px;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    .dd-menu li:hover {
+      background-color: #f6f6f6;
+    }
+
+    .dd-menu li a {
+      display: block;
+      margin: -10px -20px;
+      padding: 10px 20px;
+    }
+
+    .dd-menu li.divider {
+      padding: 0;
+      border-bottom: 1px solid #cccccc;
+    }
+  </style>
+  <body>
+    <div id="header"></div>
+
+    <div>
+      <a class="text1"
+        >Home <i class="fas fa-angle-right"></i>Shop All Products</a
+      >
+      <div
+        id="carouselExampleDark"
+        class="carousel carousel-dark slide"
+        data-bs-ride="carousel"
+      >
+        <div class="carousel-indicators">
+          <button
+            type="button"
+            data-bs-target="#carouselExampleDark"
+            data-bs-slide-to="0"
+            class=""
+            aria-label="Slide 1"
+          ></button>
+          <button
+            type="button"
+            data-bs-target="#carouselExampleDark"
+            data-bs-slide-to="1"
+            aria-label="Slide 2"
+            class="active"
+            aria-current="true"
+          ></button>
+          <button
+            type="button"
+            data-bs-target="#carouselExampleDark"
+            data-bs-slide-to="2"
+            aria-label="Slide 3"
+            class=""
+          ></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item" data-bs-interval="1800">
+            <img
+              src="https://images-static.nykaa.com/uploads/92323d1b-4435-4bc7-9a27-4f6c39fd7b37.jpg?tr=w-1200,cm-pad_resize"
+              class="d-block w-100"
+              alt="..."
+            />
+            <div class="carousel-caption d-none d-md-block"></div>
+          </div>
+          <div class="carousel-item active" data-bs-interval="1800">
+            <img
+              src="https://images-static.nykaa.com/uploads/01010ca2-6741-48ff-822c-c818943a4a21.gif?tr=w-1200,cm-pad_resize"
+              class="d-block w-100"
+              alt="..."
+            />
+            <div class="carousel-caption d-none d-md-block"></div>
+          </div>
+          <div class="carousel-item" data-bs-interval="1800">
+            <img
+              src="https://images-static.nykaa.com/uploads/e0197b42-e11d-4508-b2f2-9f301eb44728.jpg?tr=w-1200,cm-pad_resize"
+              class="d-block w-100"
+              alt="..."
+            />
+            <div class="carousel-caption d-none d-md-block"></div>
+          </div>
+        </div>
+
+        <button
+          class="carousel-control-prev"
+          type="button"
+          data-bs-target="#carouselExampleDark"
+          data-bs-slide="prev"
+        >
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button
+          class="carousel-control-next"
+          type="button"
+          data-bs-target="#carouselExampleDark"
+          data-bs-slide="next"
+        >
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+      <div id="container">
+        <!-- //slider -->
+        <div class="content">
+          <div class="images">
+            <img
+              src="https://images-static.nykaa.com/uploads/8b58449e-cd13-4d42-b498-4b223d343f3e.jpg?tr=w-1200,cm-pad_resize"
+              alt=""
+            />
+            <img
+              src="https://images-static.nykaa.com/uploads/b726e7be-6158-41a3-b67e-77cc25466c89.jpg?tr=w-1200,cm-pad_resize"
+              alt=""
+            />
+          </div>
+
+          <div onclick="side_slide(-1)" class="slide left">
+            <span class="arrow prev">&#10094;</span>
+          </div>
+
+          <div onclick="side_slide(1)" class="slide right">
+            <span class="arrow next">&#10095;</span>
+          </div>
+
+          <div class="btn-sliders">
+            <span onclick="btn_slide(1)"></span>
+            <span onclick="btn_slide(0)"></span>
+          </div>
+        </div>
+        <!-- //slider end -->
+
+        <h1 class="text3">All Products</h1>
+      </div>
+
+      <!-- //conatiner End -->
+      <!-- <div id="sort-div">
+        <button id="sort-lth">sort low to high</button>
+        <button id="sort-htl">sort high to low </button>
+      </div> -->
+
+      <div id="container1">
+        <div id="container_left">
+          <!-- //leftbar1 end -->
+
+          <div class="page-container">
+            <div id="page">
+              <div id="left_side">
+                <!-- <p>Home / Men Fashion</p> -->
+
+                <ul>
+                  <div class="buttonfloat">
+                    <button id="btn3">
+                      Brand<span class="fas fa-chevron-down"></span>
+                    </button>
+                    <div id="add3"></div>
+                  </div>
+                  <div class="buttonfloat">
+                    <label class="dropdown">
+                      <div class="dd-button">Price</div>
+
+                      <input type="checkbox" class="dd-input" id="test" />
+
+                      <ul class="dd-menu">
+                        <li id="sort-htl">High-To-Low</li>
+                        <li id="sort-lth">Low-To-High</li>
+                      </ul>
+                    </label>
+                    <div id="add4"></div>
+                  </div>
+
+                  <div class="buttonfloat">
+                    <label class="dropdown">
+                      <div class="dd-button">Products</div>
+
+                      <input type="checkbox" class="dd-input" id="test" />
+
+                      <ul class="dd-menu">
+                        <li id="sort-lipstick">Lipstick</li>
+                        <li id="sort-nailpolish">NailPolish</li>
+                      </ul>
+                    </label>
+                    <div id="add6"></div>
+                  </div>
+                  <div class="buttonfloat">
+                    <button id="btn9">
+                      Preferrance<span class="fas fa-chevron-down"></span>
+                    </button>
+                    <div id="add9"></div>
+                  </div>
+                  <div class="buttonfloat">
+                    <button id="btn13">
+                      Concern <span class="fas fa-chevron-down"></span>
+                    </button>
+                    <div id="add13"></div>
+                  </div>
+                  <div class="buttonfloat">
+                    <button id="btn12">
+                      Skin Type <span class="fas fa-chevron-down"></span>
+                    </button>
+                    <div id="add12"></div>
+                  </div>
+                  <div class="buttonfloat">
+                    <button id="btn10">
+                      color <span class="fas fa-chevron-down"></span>
+                    </button>
+                    <div id="add10"></div>
+                  </div>
+                  <div class="buttonfloat">
+                    <button id="btn11">
+                      Formulation <span class="fas fa-chevron-down"></span>
+                    </button>
+                    <div id="add11"></div>
+                  </div>
+                  <div class="buttonfloat">
+                    <button id="btn14">
+                      Finish <span class="fas fa-chevron-down"></span>
+                    </button>
+                    <div id="add11"></div>
+                  </div>
+                  <div class="buttonfloat">
+                    <button id="btn15">
+                      Coverage<span class="fas fa-chevron-down"></span>
+                    </button>
+                    <div id="add11"></div>
+                  </div>
+
+                  <div class="buttonfloat">
+                    <button id="btn2">
+                      Skin Tone <span class="fas fa-chevron-down"></span>
+                    </button>
+                    <div id="add2"></div>
+                  </div>
+                  <div class="buttonfloat">
+                    <button id="btn16">
+                      Pack Size <span class="fas fa-chevron-down"></span>
+                    </button>
+                    <div id="add11"></div>
+                  </div>
+                  <div class="buttonfloat">
+                    <button id="btn7">
+                      Conscious <span class="fas fa-chevron-down"></span>
+                    </button>
+                    <div id="add7"></div>
+                  </div>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <!-- <div class="container_leftdown">
+           
+          </div> -->
+        </div>
+
+        <div id="container_right"></div>
+      </div>
+
+      <!-- container1 end -->
+      <!-- pop up right ------------------------------->
+      <div id="container_popupright">
+        <!-- <span> <button data-model-target="#model" id="simple">
+    <i class="fas fa-sliders-h" ></i>&nbsp;&nbsp;FILTER & SORT </button></span> -->
+
+        <!-- <div class="model" id="model"> -->
+
+        <!-- <div id="popupcolor"> 
+  <span><button data-close class="close" id="rightclose"><i class="fas fa-chevron-left"></i></button></span>
+   <span class="Header" >Filter & Sort </span>
+</div> -->
+
+        <br />
+        <div id="Middle"></div>
+        <div class="Middle" id="tablemiddle"></div>
+        <hr class="hr" />
+        <!-- <div class="Footer">       
+        <button id="clear" >Grand Total</button>
+        <button   id="done" onclick="cartpage()" >PROCEED <i class="fas fa-chevron-right"></i></button>
+        <br>
+
+    </div> -->
+      </div>
+      <!-- <div id="overlay"></div> -->
+    </div>
+    <div id="simple" data-model-target="#model"></div>
+    <div id="footerdiv"></div>
+  </body>
+</html>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+<script src="./nykaa/product.js" type="module"></script>
+<script src="../navbar/main_nav.js" type="module"></script>
